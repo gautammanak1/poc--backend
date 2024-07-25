@@ -4,4 +4,4 @@ requests
 quart==0.17.0
 quart-cors==0.3.0
 gunicorn
-Werkzeug
+werkzeug==2.0.3
